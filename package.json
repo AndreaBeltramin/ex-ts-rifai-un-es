@@ -12,5 +12,7 @@
 		"typescript": "~5.7.2",
 		"vite": "^6.2.0"
 	},
-	"dependencies": {}
+	"dependencies": {
+		"dayjs": "^1.11.13"
+	}
 }
